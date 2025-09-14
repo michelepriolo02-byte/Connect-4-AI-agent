@@ -50,7 +50,7 @@ After an initial phase of problem analysis and solution design, the work was div
 - Refactored and optimized the implementations of both the MCTS algorithms and the game engine.  
 - Developed the **Elo rating system** to evaluate and compare agent performance.
 
-### **Jacopo Elefante ( @alphaprivativa )**
+### **Jacopo Elefante @alphaprivativa**
 - Led the **core development of the MCTS algorithms**.  
 - Created various **AI agents (bots)** based on these algorithms.
 
