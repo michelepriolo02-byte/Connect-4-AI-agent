@@ -7,7 +7,7 @@ The entire project can be accessed at the following link https://colab.research.
 In this project, we implemented:
 
 - **Neural network models (FCNN and CNN)**  
-  These models are trained and validated on a pre-existing dataset by converting the game board representation and moves into PyTorch tensors.
+  These models are trained and validated on a pre-existing dataset by converting the game board representation and moves into PyTorch tensors. After training the models on the pre-existing dataset, given a game scenario, the neural networks are able to predict the best move to make.
 
 - **Three variants of the Monte Carlo Tree Search (MCTS) decision-making algorithm:**  
   1. **Basic MCTS Agent** – The agent makes decisions solely based on the standard MCTS algorithm.  
